@@ -1,10 +1,11 @@
-name: Build
+name: Build locally
 
 on:
   push:
     branches:
       - rebranding-2024
   pull_request:
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
