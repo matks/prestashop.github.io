@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maintenance on PrestaShop Developers&#39; blog</title>
+    <link>https://build.prestashop-project.org/tag/Maintenance/</link>
+    <description>Recent content in Maintenance on PrestaShop Developers&#39; blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://build.prestashop-project.org/tag/Maintenance/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1.6.1.x: what’s next</title>
+      <link>https://build.prestashop-project.org/news/2019/1.6.1.x-what-s-next/</link>
+      <pubDate>Thu, 04 Jul 2019 11:30:00 +0200</pubDate>
+      
+      <guid>https://build.prestashop-project.org/news/2019/1.6.1.x-what-s-next/</guid>
+      <description>This last year, the PS company has been facing a dilemma: how to dedicate 100% of the developers’ time to move forward faster on the 1.7 version of the open source project, something everybody agrees on. And, at the same time, provide more time for merchants still using the 1.6 version to get ready to upgrade, by keeping them safe in case of critical issue after the official support ends on the 30th of June 2019.</description>
+    </item>
+    
+  </channel>
+</rss>

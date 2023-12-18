@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PrestaShop Developers&#39; blog</title>
+    <link>https://build.prestashop-project.org/</link>
+    <description>Recent content on PrestaShop Developers&#39; blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+  <language>en-us</language>
+      <lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://build.prestashop-project.org/feed.xml" rel="self" type="application/rss+xml" />
+        <item>
+          <title>PrestaShop Core Monthly - November</title>
+          <link>https://build.prestashop-project.org/news/2023/core-monthly-2023-11-01-2023-11-30/</link>
+          <pubDate>Wed, 13 Dec 2023 00:00:00 +0100</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/core-monthly-2023-11-01-2023-11-30/</guid>
+          <description>November was marked by the first PrestaShop Developer Conference in Paris.</description>
+        </item>
+      
+        <item>
+          <title>Do You Speak PrestaShop? – October 2023 Edition</title>
+          <link>https://build.prestashop-project.org/news/2023/do-you-speak-prestashop-october-2023/</link>
+          <pubDate>Mon, 20 Nov 2023 00:00:00 +0100</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/do-you-speak-prestashop-october-2023/</guid>
+          <description>Contributing to PrestaShop is not only about coding, it’s also about taking part in the PrestaShop translation project! This report will tell you how the software translations evolved in October 2023.</description>
+        </item>
+      
+        <item>
+          <title>PrestaShop Developer Conference in Paris: Program and Registration</title>
+          <link>https://build.prestashop-project.org/news/2023/prestashop-developer-conference-agenda-registration/</link>
+          <pubDate>Wed, 08 Nov 2023 00:00:00 +0100</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/prestashop-developer-conference-agenda-registration/</guid>
+          <description>If you’re a PrestaShop developer or enthusiast looking to broaden your knowledge and connect with fellow community members, the PrestaShop Developer Conference is the event for you.</description>
+        </item>
+      
+        <item>
+          <title>PrestaShop Core Monthly - October</title>
+          <link>https://build.prestashop-project.org/news/2023/core-monthly-2023-10-01-2023-10-31/</link>
+          <pubDate>Tue, 07 Nov 2023 00:00:00 +0100</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/core-monthly-2023-10-01-2023-10-31/</guid>
+          <description>In this Core Monthly, check out what we’ve been up to in October with PrestaShop’s core and modules. Also, get a sneak peek at the agenda and speakers for the upcoming PrestaShop Developer Conference.</description>
+        </item>
+      
+        <item>
+          <title>PrestaShop Live Update - October 2023</title>
+          <link>https://build.prestashop-project.org/news/2023/live-update-9-2023/</link>
+          <pubDate>Tue, 17 Oct 2023 00:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/live-update-9-2023/</guid>
+          <description>The project’s live update was held for the ninth time this year and streamed live on October 11th, 2023.</description>
+        </item>
+      
+        <item>
+          <title>Announcing October PrestaShop Project Live Update</title>
+          <link>https://build.prestashop-project.org/news/2023/upcoming-live-update-9-2023/</link>
+          <pubDate>Mon, 09 Oct 2023 00:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/upcoming-live-update-9-2023/</guid>
+          <description>The ninth Live Update for the PrestaShop Project will happen on Wednesday, October 11th, 2023 at 4 pm (Paris time) on YouTube!</description>
+        </item>
+      
+        <item>
+          <title>Do You Speak PrestaShop? – September 2023 Edition</title>
+          <link>https://build.prestashop-project.org/news/2023/do-you-speak-prestashop-september-2023/</link>
+          <pubDate>Thu, 05 Oct 2023 00:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/do-you-speak-prestashop-september-2023/</guid>
+          <description>Contributing to PrestaShop is not only about coding, it’s also about taking part in the PrestaShop translation project! This report will tell you how the software translations evolved in September 2023.</description>
+        </item>
+      
+        <item>
+          <title>PrestaShop Core Monthly - September</title>
+          <link>https://build.prestashop-project.org/news/2023/core-monthly-2023-09-01-2023-09-30/</link>
+          <pubDate>Tue, 03 Oct 2023 00:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/core-monthly-2023-09-01-2023-09-30/</guid>
+          <description>In this article, delve into September’s updates and news from the project. As well as Hacktoberfest 2023’s kick off, offering a month-long celebration of open-source contributions. Keep reading for more information.</description>
+        </item>
+      
+        <item>
+          <title>PrestaShop 8.1.2 is available</title>
+          <link>https://build.prestashop-project.org/news/2023/prestashop-8-1-2-maintenance-release/</link>
+          <pubDate>Thu, 28 Sep 2023 10:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/prestashop-8-1-2-maintenance-release/</guid>
+          <description>The second patch for PrestaShop 8.1 is available! This release contains 2 security fixes, over 30 bugs have been fixed and some minor improvements have been integrated.</description>
+        </item>
+      
+        <item>
+          <title>Hacktoberfest 2023</title>
+          <link>https://build.prestashop-project.org/news/2023/hacktoberfest-2023/</link>
+          <pubDate>Tue, 26 Sep 2023 00:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/hacktoberfest-2023/</guid>
+          <description>The month of October is coming quickly! So be prepared for Hacktoberfest, a month-long celebration of open source software.</description>
+        </item>
+      
+        <item>
+          <title>Do You Speak PrestaShop? – August 2023 Edition</title>
+          <link>https://build.prestashop-project.org/news/2023/do-you-speak-prestashop-august-2023/</link>
+          <pubDate>Mon, 18 Sep 2023 00:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/do-you-speak-prestashop-august-2023/</guid>
+          <description>Contributing to PrestaShop is not only about the code, it’s also about taking part in the PrestaShop translation project! This report will tell you how the software translations evolved in August 2023.</description>
+        </item>
+      
+        <item>
+          <title>PrestaShop Live Update - September 2023</title>
+          <link>https://build.prestashop-project.org/news/2023/live-update-8-2023/</link>
+          <pubDate>Fri, 15 Sep 2023 09:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/live-update-8-2023/</guid>
+          <description>The project’s live update was held for the eighth time this year and streamed live on September 13th, 2023.</description>
+        </item>
+      
+        <item>
+          <title>PrestaShop Core Monthly - August</title>
+          <link>https://build.prestashop-project.org/news/2023/core-monthly-2023-08-01-2023-08-31/</link>
+          <pubDate>Wed, 13 Sep 2023 00:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/core-monthly-2023-08-01-2023-08-31/</guid>
+          <description>A little later than usual, discover the latest happenings in the PrestaShop Project for August 2023. We had a productive month, successfully merging more than 240 pull requests and releasing PrestaShop 8.1.1 and some security patches. Read on to find out more!</description>
+        </item>
+      
+        <item>
+          <title>Announcing September PrestaShop Project Live Update</title>
+          <link>https://build.prestashop-project.org/news/2023/upcoming-live-update-8-2023/</link>
+          <pubDate>Wed, 06 Sep 2023 00:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/upcoming-live-update-8-2023/</guid>
+          <description>The eighth Live Update for the PrestaShop Project will happen on Wednesday, September 13th, 2023 at 4 pm (Paris time) on YouTube!</description>
+        </item>
+      
+        <item>
+          <title>Do You Speak PrestaShop? – July 2023 Edition</title>
+          <link>https://build.prestashop-project.org/news/2023/do-you-speak-prestashop-july-2023/</link>
+          <pubDate>Mon, 21 Aug 2023 00:00:00 +0200</pubDate>
+            
+          <guid>https://build.prestashop-project.org/news/2023/do-you-speak-prestashop-july-2023/</guid>
+          <description>Contributing to PrestaShop is not only about the code, it’s also about taking part in the PrestaShop translation project! This report will tell you how the software translations evolved in July.</description>
+        </item>
+      
+  </channel>
+</rss>
